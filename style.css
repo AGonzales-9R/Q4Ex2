@@ -1,0 +1,28 @@
+* {
+
+}
+
+body {
+	text-align: center;
+	background-color: aliceblue;
+}
+
+a {
+	color: blue;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 5px;
+	background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.container {
+	background-color: white;
+}
+
